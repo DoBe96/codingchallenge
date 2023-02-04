@@ -1,0 +1,73 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  }
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.transbox{
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom:10%;
+  height: 630px;
+  width: 900px;
+  background-color:rgba(0,0,0,0.6);
+  border-radius: 2%;
+  }
+
+#logo{
+  margin-top: 8%;
+  max-width: 21%;
+}
+
+header, nav{
+  text-align: center;
+  color: #32CD32;
+}
+
+nav{
+  margin: auto;
+  margin-top: 5px;
+  padding: 10px;
+  width: 700px;
+  height: 40px;
+  background-color: #32CD32;
+}
+
+.opzioni{
+  margin-top: 25px;
+  color: white;
+  margin-left: 100px;
+}
+
+.sottocapitolo{
+  font-size: 23px;
+}
+
+.descrizione {
+  font-size: 13px;
+}
+
+#arancio{
+  width: 250px;
+  height: 25px;
+  background-color: orange;
+  border-radius: 10px;
+}
+
+#verde{
+  width: 400px;
+  height: 25px;
+  background-color: #32CD35;
+  border-radius: 10px;
+}
+
+#rosso{
+  width: 100px;
+  height: 25px;
+  background-color: red;
+  border-radius: 10px;
+}
